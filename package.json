@@ -1,0 +1,15 @@
+{
+  "name": "clojurescript-webpack",
+  "version": "1.0.0",
+  "author": "redaphid",
+  "scripts": {
+    "watch": "webpack -d --watch",
+    "build": "webpack -p"
+  },
+  "dependencies": {
+    "react-player": "0.7.3",
+    "react": "15.1.0",
+    "react-dom": "15.1.0",
+    "webpack": "1.13.1"
+  }
+}
